@@ -12,6 +12,7 @@ It can access the external usb storage regardless of the drive letter as long as
 It can run in any Windows and any processor architecture (Tested in Windows XP x86, Windows 7 x86 and Windows 10 x64)
 
 ![alt text](https://raw.githubusercontent.com/v1ewport/BACTERIOPHAGE/main/device.png)
+(yeah, the device looks like shit)
 
 This device interface uses a rotary encoder module to allow you to select 3 different keyboard layouts:
  
