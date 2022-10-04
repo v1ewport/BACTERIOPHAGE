@@ -20,4 +20,4 @@ This device interface uses a rotary encoder module to allow you to select 3 diff
  - Spanish (Spain)
  - Spanish (Latin American)
  
- DEMO VIDEO HERE: https://www.reddit.com/r/blackhat/comments/xtaays/custom_arduino_micro_rubberducky_for_any_windows/
+ DEMO VIDEO [HERE](https://www.reddit.com/r/blackhat/comments/xup5gx/a_custom_adaptable_rubberducky_using_arduino/)
